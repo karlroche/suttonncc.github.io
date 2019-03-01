@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.jumbotron {
+  background-image: url("../images/phoebecx.jpg");
+  background-size: cover;
+  background-position:center;
+  background-blend-mode: overlay;
+
+}
+p {
+  font-family: "fira Sans, regular", arial;
+}
+h1 {
+  font-family: "fira Sans, bold", arial;
+  color: #0133cc
+}
+.btn-default{
+  background-color: aliceblue;
+  color: #ffffff
+}
+.btn-primary{
+  background-color: #0133cc;
+  color: #
+}
+.btn-primary:hover{
+  background-color: gold;
+  color: #ffffff;
+  -webkit-transition-duration: 0.4s; /* Safari */
+   transition-duration: 0.4s;
+}
+.nav-link{
+white-space: nowrap;
+}
+
+.dropdown{
+  font-style: normal;
+white-space: nowrap;
+}
